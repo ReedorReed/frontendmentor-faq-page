@@ -2,13 +2,13 @@
 This is my solution to the FrontendMentor FAQ accordion challenge
 
 ## Table of contents: 
-- [Overview] (#overview)
-    - [The Challenge] (#the-challenge)
-- [My Process] (#my-process)
-    - [Built with:] (#built-with)
-    - [What I learned] (#what-i-learned)
-    - [Useful resources] (#useful-resources)
-- [Author] (#author)
+- [Overview](#overview)
+    - [The Challenge](#the-challenge)
+- [My Process](#my-process)
+    - [Built with:](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
 
@@ -32,7 +32,7 @@ is to build a FAQ page where users should be able to:
 ### What I learned
 
 ### Useful resources:
-- [] ()
+- 
 
 ## Author
 - Website: [Christian Reed] (https://christianreed.dk/)
