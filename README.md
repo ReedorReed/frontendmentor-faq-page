@@ -35,6 +35,6 @@ is to build a FAQ page where users should be able to:
 - 
 
 ## Author
-- Website: [Christian Reed] (https://christianreed.dk/)
-- Frontend Mentor: [@ReedorReed] (https://www.frontendmentor.io/profile/ReedorReed)
-- LinkedIn: [Christian Reed] (https://www.linkedin.com/in/christiansreed/)
+- Website: [Christian Reed](https://christianreed.dk/)
+- Frontend Mentor: [@ReedorReed](https://www.frontendmentor.io/profile/ReedorReed)
+- LinkedIn: [Christian Reed](https://www.linkedin.com/in/christiansreed/)
