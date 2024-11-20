@@ -81,3 +81,29 @@ body p {
 	height: 3rem;
 	width: 3rem;
 }
+
+.question {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: 700;
+	color: hsl(292, 42%, 14%);
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.answer {
+	color: hsl(292, 16%, 49%);
+	max-height: 0;
+	overflow: hidden;
+}
+
+.answer p {
+	padding: 1rem;
+	line-height: 1.6;
+	font-size: 1.4rem;
+}
+
+.faqs.active .answer {
+	max-height: 30rem;
+}
